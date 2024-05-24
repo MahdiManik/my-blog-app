@@ -1,5 +1,5 @@
 #### My Blog App
-The Eco Smart Bins project aims to develop a Smart Waste Management System website, leveraging modern technologies to enhance waste collection efficiency, promote recycling, and provide an interactive platform for residents, waste management staff, and administrators.
+The Semple project aims to develop a my-blog-app website.
 
 
 #### To see the My Blog App
