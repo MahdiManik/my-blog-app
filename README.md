@@ -4,8 +4,8 @@ The Semple project aims to develop a my-blog-app website.
 
 #### To see the My Blog App
 # Links
-Deployed Front-End: [Vercel Deployment](https://my-blog-client-beryl.vercel.app/)
-Deployed Back-End: [Heroku Deployment](https://my-blog-server-eight.vercel.app/api/v1)
+Deployed Front-End: https://my-blog-client-beryl.vercel.app
+Deployed Back-End: https://my-blog-server-eight.vercel.app/api/v1
 
 
 ### My Blog Sumary - Summary
