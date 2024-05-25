@@ -6,6 +6,7 @@ The Semple project aims to develop a my-blog-app website.
 # Links
 Deployed Front-End: https://my-blog-client-beryl.vercel.app
 Deployed Back-End: https://my-blog-server-eight.vercel.app/api/v1
+Deployed Storybook: https://66516065a8055abd5b17551b--fanciful-lamington-c71c77.netlify.app/?path=/docs/configure-your-project--docs
 
 
 ### My Blog Sumary - Summary
